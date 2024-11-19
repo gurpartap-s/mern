@@ -1,1 +1,1 @@
-# mern
+# MERN stack example
